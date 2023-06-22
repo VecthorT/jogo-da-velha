@@ -9,7 +9,7 @@ const Header = ()=>{
     return(
       <header className="header">
         <Logo/>
-        <Sobre/>
+        <Sobre/> 
         <IconMenu/>
       </header>
     )
